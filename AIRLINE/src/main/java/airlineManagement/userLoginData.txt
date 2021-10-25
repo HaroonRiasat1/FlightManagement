@@ -1,0 +1,4 @@
+Haroon,Male,18,44080,12233454,haroonriasata@gmail.com,123456
+a,Male,18,a@a.com,12,a@a.com,123w
+Hamza,Male,18,house 334,35322,ha,12
+a,a,12,null,null,null,null

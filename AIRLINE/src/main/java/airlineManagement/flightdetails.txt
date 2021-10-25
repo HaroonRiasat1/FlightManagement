@@ -1,0 +1,5 @@
+PK218,3hours,Islamabad.Karachi.,Dubai,500,100,12000,5500,16/Nov/2021,05:30 PST
+PK258,2:30hours,Dubai,Islamabad,250,50,35000,25000,18/Nov/2021,50,12:30 PST
+PK280,2:30hours,Dubai.Lahore.,Islamabad,350,75,32000,22000,18/Nov/2021,15:30 PST
+PK731,5hours,Islamabad,Jeddah,520,150,65000,55000,16/Nov/2021,16:52 PST
+PK730,5hours,Jeddah,Islamabad,520,150,63000,53000,16/Nov/2021,16:52 PST
